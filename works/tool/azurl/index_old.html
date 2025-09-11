@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- test -->
+<html lang="ja">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3JTY8XPMX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K3JTY8XPMX');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>秋月電子通商自動遷移サイト</title>
+    <script>
+        function redirectToURL() {
+            const num = document.getElementById("numInput").value;
+            const url = `https://akizukidenshi.com/catalog/g/g${num}`;
+            window.location.href = url;
+        }
+    </script>
+</head>
+<body>
+    <a href="https://sora81.dev/">＜製作者のサイトに戻る</a>
+    <br>
+
+    <p style="font-size: 2rem;">秋月電子通商自動遷移サイト</p>
+    <form onsubmit="redirectToURL(); return false;">
+        <label for="numInput">通販番号</label>
+        <input type="text" id="numInput" name="num" required>
+        <button type="submit">Go</button>
+    </form>
+    <p style="font-size: 1rem; color: red;">※秋月電子の通販番号以外の数値を入力しないでください</p>
+</body>
+<footer>
+    <hr>
+    <p>Copyright © 2024-2025 sora81dev</p>
+</footer>
+</html>

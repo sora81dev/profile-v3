@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="download_simple.svg"
+   inkscape:export-filename="download_simple.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.19540689"
+     inkscape:cx="680.63106"
+     inkscape:cy="1200.06"
+     inkscape:window-width="1472"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path2"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       cx="247.66225"
+       cy="37.644661"
+       r="0.26390696" />
+    <circle
+       id="path3"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       cx="252.61549"
+       cy="81.233215"
+       r="0.26390696" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M 250.6342,24.766225 249.64355,398.24091"
+       id="path4" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M -111.94334,466.59567 -90.14906,118.87788"
+       id="path5" />
+    <circle
+       id="path6"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       cx="238.7464"
+       cy="43.588558"
+       r="0.13195348" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.267164"
+       id="path7"
+       cx="250.24596"
+       cy="74.271713"
+       rx="18.527157"
+       ry="19.120977" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.25122"
+       id="path7-3"
+       cx="448.26871"
+       cy="461.42938"
+       rx="17.152454"
+       ry="18.261787" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.25122"
+       id="path7-3-9"
+       cx="50.462898"
+       cy="461.56989"
+       rx="17.152454"
+       ry="18.261787" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.260218"
+       id="path7-8"
+       cx="363.64026"
+       cy="314.32578"
+       rx="18.7437"
+       ry="17.929985" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.260218"
+       id="path7-8-8"
+       cx="137.9604"
+       cy="314.66925"
+       rx="18.7437"
+       ry="17.929985" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.267164"
+       id="path7-9"
+       cx="249.70329"
+       cy="428.24194"
+       rx="18.527157"
+       ry="19.120977" />
+    <rect
+       style="fill:#999999;stroke-width:0.247981"
+       id="rect7"
+       width="36.653999"
+       height="350.70251"
+       x="231.673"
+       y="74.648743" />
+    <rect
+       style="fill:#999999;stroke-width:0.264682"
+       id="rect7-4"
+       width="36.653999"
+       height="399.53232"
+       x="-479.78879"
+       y="50.233841"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#999999;stroke-width:0.17296"
+       id="rect7-7"
+       width="36.653999"
+       height="170.60588"
+       x="461.25906"
+       y="-37.079834"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#999999;stroke-width:0.17296"
+       id="rect7-7-3"
+       width="36.653999"
+       height="170.60588"
+       x="-144.2114"
+       y="316.6225"
+       transform="rotate(-45)" />
+  </g>
+</svg>

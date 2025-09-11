@@ -1,0 +1,31 @@
+.marshmallow-qa {
+    background-color: #F3969A;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 800px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.amazon {
+    background-color: #FFB14A;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 800px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.support-method {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin: 20px 0;
+}

@@ -1,0 +1,31 @@
+.mail {
+    background-color: #5279f8;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 800px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.twitter {
+    background-color: #2AA8E0;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 800px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+.support-method {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin: 20px 0;
+}

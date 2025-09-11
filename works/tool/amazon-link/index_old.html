@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- test -->
+<html lang="ja">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazonリンク短縮</title>
+
+    <script src="./amazon-link.js"></script>
+</head>
+<body>
+    <a href="/">＜製作者のサイトに戻る</a>
+    <br>
+
+    <p style="font-size: 2rem;">Amazonリンク短縮</p>
+
+    <label for="URL">Amazonリンク</label>
+    <input type="text" id="URL" name="num" required><br>
+    <button onclick="generate()">Run</button>
+
+    <hr>
+    <p id="result-text">結果</p>
+    <button onclick="copyToClipboard()">クリップボードにコピーする</button>
+    <button onclick="goToPage()">ページに移動する</button>
+
+    <p style="font-size: 1rem; color: red;">※Amazonリンク以外を入力しないでください</p>
+</body>
+<footer>
+    <hr>
+    <p>Copyright © 2025 sora81dev</p>
+</footer>
+</html>

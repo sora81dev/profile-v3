@@ -1,0 +1,61 @@
+.phrase {
+    font-size: 20px;
+    text-align: center;
+}
+
+.phrase2 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.difference-container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.detail-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.scene-container {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-items: left;
+}
+
+.info-table {
+    text-align: center;
+    border-collapse: collapse;
+    border: none;
+    border-spacing:  20px 0;
+
+}
+
+.info-table th {
+    background: gainsboro;
+}
+
+.info-table td, .info-table th {
+    border: none;
+    padding: 10px;
+}
+
+.info-table td, .info-table th{
+    border-left: 1px solid gray
+}
+
+.info-table tr {
+    border-bottom: 1px solid gray;
+}
+
+.info-table td:first-child, .info-table th:first-child {
+    border-left: none;
+}
+
+.info-table tr:last-child, .info-table tr:first-child {
+    border-bottom: none;
+}

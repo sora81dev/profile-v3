@@ -1,0 +1,137 @@
+.works-status-active {
+    background-color: #4be369;
+    padding: 5px 6px 4px 6px;
+    border-radius: 5px;;
+    color: white;
+    font-weight: bold;
+}
+
+.works-status-publication-stopped {
+    background-color: #dc6c6c;
+    padding: 5px 6px 4px 6px;
+    border-radius: 5px;;
+    color: white;
+    font-weight: bold;
+}
+
+.work-status {
+    text-align: center;
+}
+
+.title-container {
+    display: flex;
+    margin-top:20px;
+    margin-bottom: 50px;
+    gap: 10px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.title-container h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.category-item{
+    border-radius: 5px;
+    padding: 5px 6px 4px 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.category-item-minecraft {
+    background-color: #1FB53C;
+    color: white;
+}
+
+.category-item-minecraft-resource-pack {
+    background-color: #ff9b49;
+    color: white;
+}
+
+.category-item-tool {
+    background-color: #63c9c2;
+    color: white;
+}
+
+.category-item-web-tool {
+    background-color: #5c79d8;
+    color: white;
+}
+
+.category-item-game {
+    background-color: #4ab156;
+    color: white;
+}
+
+.category-item-windows {
+    background-color: #0074CD;
+    color: white;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.info-container h1 {
+    border-bottom: 1.5px solid black;
+    padding-bottom: 5px;
+    width: 400px;
+}
+
+.download {
+    display: inline-block;
+    border-bottom: 1.5px solid black;
+    padding-bottom: 5px;
+    padding: 0 40px;
+}
+
+.download-container {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.download-modrinth {
+    background-color: #02AF5C;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+.author-profile-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.author-profile-container img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.author-detail-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;;
+}
+
+.author-detail-container h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.author-detail-container p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.author-data-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
